@@ -10,6 +10,8 @@ This work is licensed under a Creative Commons Attribution 4.0 International Lic
 * Reajustar o aluguel em 7%
 * Fazer dois pagamentos com o aluguel reajustado
 * Voltar no fonte do contrato no seu repositório e adicionar um comentário com o endereço dele, exemplo: // Endereço do contrato na rede Sepolia 0x5042c9195ba56f6e6eee08255228b1da940258cf
+
+   MEU CONTRATO ======= 0xCA691fd1feD4188039BFab6Bf1c4E173cd70C276 
 */
 pragma solidity 0.8.19;
 
